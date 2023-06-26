@@ -2,7 +2,7 @@
 - 👀 I’m interested in user experience research and design
 - 🌱 I’m currently learning how to set up and scale design research teams
 - 💞️ I’m looking to collaborate on product and service design projects
-- 📫 How to reach me ...
+- 📫 Reach me on LinkedIn https://www.linkedin.com/in/rohinishenoy/ 
 
 <!---
 ShenoyRohini/ShenoyRohini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
